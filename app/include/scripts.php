@@ -1,0 +1,12 @@
+<script src="http://tornado/public/js/jquery-3.3.1.min.js"></script> <!-- jquery_local -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script> <!-- jquery_cdn -->
+<script src="http://tornado/public/js/fontawesome-all.min.js"></script> <!-- fontawesome_local -->
+<script src="https://use.fontawesome.com/8aea3f93d7.js"></script> <!-- fontawesome_cdn -->
+<script src="http://tornado/public/js/bootstrap.min.js"></script> <!-- bootstrap_local -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script> <!-- bootstrap_cdn -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"></script> <!-- pooper -->
+<script src="http://tornado/public/js/slick.min.js"></script> <!-- slick_slider_local -->
+<script src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script> <!-- slick_slider_cdn -->
+<script src="http://tornado/public/js/custom.js"></script> <!-- custom -->
+<script src="http://tornado/public/js/alarm.js"></script> <!-- alarm -->
+<script src="http://tornado/public/js/main.js"></script> <!-- main -->
